@@ -1,10 +1,11 @@
-@software{behnam_rz_2024_14199100,
-  author       = {Behnam-Rz},
-  title        = {Behnam-Rz/Oocyte\_Constriction: Initial Release},
-  month        = nov,
-  year         = 2024,
-  publisher    = {Zenodo},
-  version      = {0.1.0},
-  doi          = {10.5281/zenodo.14199100},
-  url          = {https://doi.org/10.5281/zenodo.14199100}
-}
+cff-version: 1.2.0
+  family-names: "Rezaei" 
+  given-names: "Behnam"
+date-released: '2024-11-21'
+doi: 10.5281/zenodo.14199100
+license:
+- cc-by-4.0
+repository-code: https://github.com/Behnam-Rz/Oocyte_Constriction/tree/0.1.0
+title: 'Behnam-Rz/Oocyte_Constriction: Initial Release'
+type: software
+version: 0.1.0
